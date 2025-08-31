@@ -1,1 +1,4 @@
 Hello, this is a message from my cloned repository!
+👋 Hello, welcome to the Recipe Finder App!  
+🍲 Discover, create, and manage your favorite recipes with ease.  
+✨ Built with love by Hayford Tokory ❤️  
